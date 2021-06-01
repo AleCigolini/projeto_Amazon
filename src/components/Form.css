@@ -1,0 +1,80 @@
+.body{
+    height: 570px;
+    width: 400px;
+    font-family: 'Amazon Ember';
+    border-radius: 4px;
+    border: 1px #ddd solid;
+    text-align: left;
+    font-weight: bold;
+    font-size: 13px;
+    padding: 14px 18px;  
+     
+}
+
+span.tittle {
+    font-weight: 400;
+    font-size: 28px;
+    margin: 0 0 10px;
+    padding: 0 0 4px;  
+}
+
+span.descPass {
+    font-size: 12px;
+    line-height: 15px;
+    font-weight: normal;
+}
+
+.describe {
+    font-size: 12px!important;
+    width: 100%;
+    font-weight: normal;
+    margin-top: -10px;
+}
+
+a {
+    color: #0066c0
+}
+
+
+.espaco{
+    margin-top: 1.2em;
+}
+
+.button{
+    padding: 0 10px 0 11px;
+    font-size: 13px;
+    display: block;
+    line-height: 10px;
+    height: 30px;
+    white-space: nowrap;
+    width: 362px;
+    background: #f0c14b!important;
+    background-color: #a88734 #9c7e31 #846a29!important;
+    border-radius: 3px!important;
+    border-style: solid!important;
+    border-width: 1px!important;
+}
+
+.box {
+    height: 30px;
+    margin-top: 10px;
+    background: linear-gradient(to bottom, rgba(0,0,0,.14), rgba(0,0,0,.03) 3px, transparent);
+    z-index: 0;
+    zoom: 1;
+}
+
+.formControl {
+    border: 1px solid #a6a6a6;
+    border-top-color: #949494;
+    border-radius: 3px;
+    box-shadow: 0 1px 0 rgb(255 255 255 / 50%), 0 1px 0 rgb(0 0 0 / 7%) inset;
+    outline: 0;
+    height: 31px;
+    background-color: #fff;
+}
+
+
+.tracking-in-expand-fwd {
+	-webkit-animation: tracking-in-expand-fwd 0.8s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
+	        animation: tracking-in-expand-fwd 0.8s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
+}

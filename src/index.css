@@ -1,0 +1,41 @@
+body {
+  display: flex;
+  justify-content: center;
+  margin: 5px 0 0 0;
+ 
+  /* https://uigradients.com/#PinotNoir - fontes de background*/
+  /*background: linear-gradient(to right, #3d7eaa, #ffe47a); */
+}
+
+code {
+  font-family: 'Amazon Ember';
+}
+
+.divImage {
+  margin-top: 12px;
+  margin-bottom: 12px;
+  text-align: center!important;
+}
+
+.iconAmazon {
+  background-position: -5px -130px;
+  height: 31px;
+  width: 103px;
+}
+
+.iconAmazonTwo {
+  background-image: url(https://m.media-amazon.com/images/S/sash/mPGmT0r6IeTyIee.png);
+  background-size: 400px 750px;
+  display: inline-block;
+}
+
+.iconAmazonDomain {
+  width: 42px;
+  background-position: -181px -200px;
+  height: 28px;
+  background-image: url(https://m.media-amazon.com/images/S/sash/mPGmT0r6IeTyIee.png);
+  background-size: 400px 750px;
+  background-repeat: no-repeat;
+  display: inline-block;
+  vertical-align: top;
+}
