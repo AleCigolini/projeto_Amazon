@@ -1,7 +1,5 @@
 # Amazon - Login
-
-Projeto realizado em cima da tela de autenticação de acesso a conta na Amazon
-
+_______________________________________________________
 ## Tecnologias envolvidas
 
 Node.js, React, JavaScript, HTML5, CSS3, Bootstrap
